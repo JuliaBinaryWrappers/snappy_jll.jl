@@ -9,7 +9,7 @@ function __init__()
     JLLWrappers.@generate_init_header(Zlib_jll, LZO_jll)
     JLLWrappers.@init_library_product(
         libsnappy,
-        "lib/libsnappy.1.1.9.dylib",
+        "lib/libsnappy.1.1.10.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
