@@ -1,316 +1,316 @@
 [[snappy]]
 arch = "aarch64"
-git-tree-sha1 = "a591a2c609dc52c1832d01ad3a438d7327238ec7"
+git-tree-sha1 = "6f71d2334e4b4c745ce16a4d05e88c5e593bfa11"
 os = "macos"
 
     [[snappy.download]]
-    sha256 = "ae57630073d23bcd0d7caf2799bccef5efec81a5a25d5d0b2d32fb2d17d2c729"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "c7ca9fcd46c53c428e77d6b51e165076a963c70e2dd11b171a4c234746b288f5"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.aarch64-apple-darwin.tar.gz"
 [[snappy]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0f4fe72a227d553ed6caf127821be8da3a996860"
+git-tree-sha1 = "bef2264d7f2a4fd5a84b9dc1cc6e05f92302b23b"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "f50ae8ea69825cdd81c8f7de7058a124abb3331687676f5b342b0a9aba5f82cc"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "30e5c2a9bf68c343ae21a89dc455021a1fd1f34cee9b748a00c1c4800af47c9b"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.aarch64-linux-gnu-cxx03.tar.gz"
 [[snappy]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "49340d00996af610b86b6f9c0a3c627dcd4394f6"
+git-tree-sha1 = "74d85c8316a4ce2e39e28302c2630f077c336a0d"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "0b2c96d08f627d09662484aaaedfe2fb5a3b65ed3574fc56417143e3a2d91912"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "9be0f3d16bdb38f06ae4599c4eb7e9023eec3be7d9d1f91d4cad6b3bd942a7bc"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.aarch64-linux-gnu-cxx11.tar.gz"
 [[snappy]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9355d83fb366c7d157c0036efdaa6fa47b2b7098"
+git-tree-sha1 = "3d7da1c408a348ad20753fbf0a1c14fdacf8403f"
 libc = "musl"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "fd586fb88f79c4af96d1bf5c9e3453b8412eedf523aa3d176836f9b0447b8a74"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "55a3b78b711eb046826018cc65f904e01d1f144ddc2b7974eb4f81cea81545b1"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.aarch64-linux-musl-cxx03.tar.gz"
 [[snappy]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c691191eec013b7219ea43d616e6cb6031f4a0bc"
+git-tree-sha1 = "642b76d30521bf7730f624156e16cf4feef586ba"
 libc = "musl"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "1820b131879c5bbffd714f4ba049f9a65480966c4e767c6225b3b3c6fb6b8bd3"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "7f034aedcf85e69b1f66efa71b8c68d4c94536e0d20329ddbeb87bae08fc2d04"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.aarch64-linux-musl-cxx11.tar.gz"
 [[snappy]]
 arch = "aarch64"
-git-tree-sha1 = "d71861abc0c825176ddbf05f5905144a2e1d16f6"
+git-tree-sha1 = "33d31e6574d0c66f97958043266a9495d18f903e"
 os = "freebsd"
 
     [[snappy.download]]
-    sha256 = "b0da6260c700465131a61a4aa2a5b571d2212614ed819ed8e47106b446fd79bc"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "61296d206ce121760b24e6b780b4b364894e33fe67205bacf3c05e2398dc7fb2"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.aarch64-unknown-freebsd.tar.gz"
 [[snappy]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "718b660168e4c37959778f1da6915f8f8efb5d01"
+git-tree-sha1 = "ad118076e504d0013aad4ca23cf358171b3d86f3"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "bee444d447bba1c6e5f66836e1703ab6e6baac8b26d46ca0b47fa1d387b62440"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "f01792557645c90a2fed582b1d46b8c1c4b4a0e1c7d86c746b75b55097dafce9"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[snappy]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5aff6020a1b7f2cc6bc07c4e0ef006c3c2d39ee8"
+git-tree-sha1 = "44da386f0d5477a2371589c26e2c0dabb761e8ff"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "ae176ac38cda89fcec752493c8dcb7ed2889708b6ff7259c4cd9b3b6880ddb11"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "36dac7e8a00151a0fdf5a9c129ea90b2e4e40bae63c1ab011151f981110eeec4"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[snappy]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0c4a46dc345798d892e4f47556e7dda65f234dec"
+git-tree-sha1 = "359c3d12b696781e82902d80cffb1093d5d5ffdd"
 libc = "musl"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "c4606d506075abddc80ed59bfb8f230854a05f9c94d6bbdd498518aeb685b3bf"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "6b25e9dd5428a22799613d6d1771ee64e891cb33568811dcbd60f2042b3d4f4a"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[snappy]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b6562cc57acc9331021fc9f8ccccb9ba3bd73459"
+git-tree-sha1 = "6bc2c676a05393ac34aa79f7ecaac07b3dcc90f8"
 libc = "musl"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "8edcd2ec48bfb62de618ce666fea5ddd44d57d6971dd1db405c7ba7c7426e359"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "29b4565f78376b5c941e1149149e75ffcef8cb460fe7665da4a83f4850e7c19b"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[snappy]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b00189bfcc2f29f149abafeab2a12ea049ea5bf3"
+git-tree-sha1 = "bbed74f3a00477ee1dba0f4fd4fa104c735267f3"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "86840d19b1b19cea2472d0332bb29e969a177e1b84c7d17cb3c450051aee450a"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "d0bfd9a6c14cef3256cc8d6418da451d7fb070c789a35d071f4a53f41344b36e"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[snappy]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8345f96b14013c40bb25e70c60d3a30e531fd5ba"
+git-tree-sha1 = "363fc385acda3c1b2567d498a3af4f4b976487f0"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "916ff56857e55b54898f1627dcb7057d7e2aea05387a2ec4f43bf6453599fe87"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "298326020730ab6b93140e477ad8292a1daf61dd59f3af5fb985bc95c6b3afd2"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[snappy]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "402cfa466398613cd729adc14f842fe8855d9753"
+git-tree-sha1 = "3360dcd00482862bda79b15ae72aa6aed95021ac"
 libc = "musl"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "1ef36a8d8e0f5fa029ad70602db66fda3ad5903656a21199a0d0611360efdb25"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "639200e439acbefa8f7633bc18c5846e9aaa895df25611b45ec513fddb8c84f3"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[snappy]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "77c67746538a328d953ed9fd863881cf45db1d17"
+git-tree-sha1 = "93251bde38f754fb91e2279585558b2e26f8ee4d"
 libc = "musl"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "bb206e42b807a3d3a3b1bf9d7712981bf7204b792787f38c237ba5d862b3b1c4"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "df5033da9c092bd2e6880f8bb0444e2cf62634c1f2de14d3bd5da4ab8b04aab8"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[snappy]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "15032c041194893bdee0b4179e9d863bb1fa2e0b"
+git-tree-sha1 = "84dc57af86c76247f57a082c9706c5603956f0dc"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "9d1d52809349b4e501bbcf4e15bdac97877d697c50f34dea3fbc5ecfe239e35f"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "939de03b76166486c4844a7a54eed4aeab85f16bb8918add31e69d7a7d45a9f2"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.i686-linux-gnu-cxx03.tar.gz"
 [[snappy]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e509b7f184b01116c47edf60f5e8cd4166ed1f79"
+git-tree-sha1 = "dace201c3a8fee1f613ff8a7508d8b1bd3232134"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "9c8663412ef4b5d503afb28995b90dd3d1bdb10b9ce8fa15d5b2c8002ea2f187"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "44ace4b38a2bcc0a792c2f1f2e563327378cf91faea472716ac2912c3f968fe9"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.i686-linux-gnu-cxx11.tar.gz"
 [[snappy]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9e4e9ff363e06b74276032fdddfba979dd06b6d5"
+git-tree-sha1 = "1f41e031201bc4c9eb457c1c5706b2ad593afbea"
 libc = "musl"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "21c7b27a0885a96442f7966b2b9470a8f4afdbf77ed05e5d5a5fb07d91596322"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "700c8b840976b16443c6d70c1860e362e4587d8c16d40fb50045bcfcc43d00ee"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.i686-linux-musl-cxx03.tar.gz"
 [[snappy]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dcf73bd3d03037dbdc5adb31ade5edbe146ab1b7"
+git-tree-sha1 = "e92d61cb97e066b618666526e6a3ed8ad68db313"
 libc = "musl"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "e6b8667817d8caf0aea24679226afd55091c2d174cf337c7043776f5844b729a"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "5f35ef8fa6355024d3167e126d95cba6fe627b59b6732b334606f441afc20c68"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.i686-linux-musl-cxx11.tar.gz"
 [[snappy]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "07f7f2ab11704e359079bbd645357302ba0b31b9"
+git-tree-sha1 = "c0fa8fc5f38d7b6472fe2ebf3a323277f77c9287"
 os = "windows"
 
     [[snappy.download]]
-    sha256 = "733cf0ec117d78297e867b57fe3a27ec71891c99a781aec3d844b50096885aa6"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "c62e43f859f3d35a655fa41d8cdcef3f7a3b3a9f066d518e4b53c5d159cd44bb"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.i686-w64-mingw32-cxx03.tar.gz"
 [[snappy]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "651a5d58e535b4b0f4f31d20d6b4e6f6e465a358"
+git-tree-sha1 = "6bc742a9ae12be9cc077b74555202f79fa144319"
 os = "windows"
 
     [[snappy.download]]
-    sha256 = "385add3ddd11bd69e66e64d63e7ba3b1c6dc3dc404bd257c6f78def28567109b"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "408272a77286ac713bec0c855b05e29a1241c56eca3ad89d0dfacf48ba13827c"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.i686-w64-mingw32-cxx11.tar.gz"
 [[snappy]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "83815fcf5848729e3b50264b777a600fe3700bea"
+git-tree-sha1 = "07ea59eb2539f4cab3441f69ff284abca9c4d408"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "311ce3460d47b0b871de67de9f5db175628fe48312ea93df0415840f68107dcb"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "0b7664aae64549699dc81c1426000f7a823d1f0eb41c8857061347402284f262"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[snappy]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "29d434d82fb26dc83e14aded39974688e7ee494b"
+git-tree-sha1 = "a8ba87652d2c7dfacb0bd064611ef795eff1ba11"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "2f934343d8892a68860279e064a901b7b52fe89d1543de02d6de78522060718d"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "b9fd0aa9fc5b006bc99e27bcca82d3894fc536af9e2d9175d3e026b24af5cf89"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[snappy]]
 arch = "riscv64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5a3bd2eca9339e5decfd9ff230f423eea42b02b7"
+git-tree-sha1 = "04f4b29bf95c1024ede2ee9fcae6302da81dee34"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "3b9403bda1c04f57406b4dfab55bcd29b23a11e9007e0aa65af7907196b9a70c"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.riscv64-linux-gnu-cxx03.tar.gz"
+    sha256 = "f0b1423877f73524ae715c492e1e6f982a055e9756fa06d46ee29ff7cd16edab"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.riscv64-linux-gnu-cxx03.tar.gz"
 [[snappy]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e671f8f339e5189bb479a46a4d25efaf374bfc06"
+git-tree-sha1 = "41f0d7e1a4e4df468e3e2ef9f8cf408b533b575a"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "41660dab9ab9ce670cee2e8c040ae9c358105e1f9134b6762a23fd4a9fa114cc"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "e0ad2846f1c0e52fef206dab32c422a1cbf55a637056c36726ba1771985810c1"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.riscv64-linux-gnu-cxx11.tar.gz"
 [[snappy]]
 arch = "x86_64"
-git-tree-sha1 = "d5b9236d528e5badfc49fb777a4d86d9fff7b4ea"
+git-tree-sha1 = "eb450356996ff575a9515a2f39667fd3cb404169"
 os = "macos"
 
     [[snappy.download]]
-    sha256 = "b78ac4bc1c284389150460ec60b94183945d3caf0a14e1b44cda00895221e3ca"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "3e01eea471f2c48ef2586b4815d3555fdee5fb6c2dd42d004106c98d027d4eac"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.x86_64-apple-darwin.tar.gz"
 [[snappy]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3ddf28f98152798f8ee646e745242328b536b9f8"
+git-tree-sha1 = "af92a555d4624c7f4c18a879228ea260bcaab1b9"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "0cc3be6ea51f832ac259b0e42cf15ffe0272047360005055572649c6dfc7c079"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "8736e5e6d80afda37c5d2dac861170e26470c26ac7c708c85f2382299d5b6f86"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.x86_64-linux-gnu-cxx03.tar.gz"
 [[snappy]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eeb4457626799d32bcad9f488bfef72b7e9151c6"
+git-tree-sha1 = "79d1be73efd9003a785a6923d286d1b447a86ae0"
 libc = "glibc"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "52b43a1e9f5ba9192189767e44fff373b69500d296bc98dba08f805c49d1edf3"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "0b2bca023bb9efaa528f9075c34493bfe3de08c041ed670279d4ca58471189f7"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.x86_64-linux-gnu-cxx11.tar.gz"
 [[snappy]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b850e0749e9c09f2ea2cfa49889fc109665127b0"
+git-tree-sha1 = "d96c625af6857b9aa7b355de96cad2db6cf520e9"
 libc = "musl"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "02139f32d037b3825b37ece0bc169ceee54c723c24b8c6693f312738545dd2c1"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "c27122cf2a33c09ec6597ecd5a7f18c2356ce56b6b673a42c9f8e12dd38574a9"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.x86_64-linux-musl-cxx03.tar.gz"
 [[snappy]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a10a6e2bcb500cab5b2a4bfaf2b52bf9f90a14bb"
+git-tree-sha1 = "6abf4b24e87648d343e0d0d696a5108815bddf49"
 libc = "musl"
 os = "linux"
 
     [[snappy.download]]
-    sha256 = "8c9b8b265c09e7deb05248bed8c90d0ac9264f584b6a01292f4a0f7b5e5d5798"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "9cabfec9dd61a495357c0a151569df13bf0ba42a621c63b788c5422648f3143d"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.x86_64-linux-musl-cxx11.tar.gz"
 [[snappy]]
 arch = "x86_64"
-git-tree-sha1 = "253f6f03ec655a296527119d1af045978c8023a2"
+git-tree-sha1 = "d422cf2de3bf735d3a62928cc7cf244962edf4ab"
 os = "freebsd"
 
     [[snappy.download]]
-    sha256 = "bf47a1ff40755c119132cfc4ee7d446476056517f6fe80aab1a3aae65361324f"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "d0a8bd8118cf2441d4ee74dd75225fdc641d624cfd14f45ea232798ec5fef5d6"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.x86_64-unknown-freebsd.tar.gz"
 [[snappy]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f4545673c6289a2e234008d3f3bd02fa591b89df"
+git-tree-sha1 = "2cd1b3f60688ebc500cc158a4ff3782aadbf35cd"
 os = "windows"
 
     [[snappy.download]]
-    sha256 = "f578f354d13cf083b7046c0bb5ba4533e958ce7ac98a3515e2c933487764f1e3"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "537e301f11e46a37669c21874362e79aeb0e9fabcc8f7c4a726684d7dd4cbf5c"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.x86_64-w64-mingw32-cxx03.tar.gz"
 [[snappy]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2ab77436ec541773d2e7cf754ab3e86fa4623de3"
+git-tree-sha1 = "ee93de70df2ba7e4f9e61283535ee5dc84b4b389"
 os = "windows"
 
     [[snappy.download]]
-    sha256 = "aa78d5193167b54b609f61e9dc6c4ec8d18d68f1443232fac916b603248829cd"
-    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.2+0/snappy.v1.2.2.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "c7b97e04014cdf16289eabd048ea22029b9ae747ae26a73ba7ff225f754af4c6"
+    url = "https://github.com/JuliaBinaryWrappers/snappy_jll.jl/releases/download/snappy-v1.2.3+0/snappy.v1.2.3.x86_64-w64-mingw32-cxx11.tar.gz"

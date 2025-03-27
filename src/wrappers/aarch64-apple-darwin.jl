@@ -7,7 +7,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libsnappy,
-        "lib/libsnappy.1.2.1.dylib",
+        "lib/libsnappy.1.2.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
